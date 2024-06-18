@@ -1,1 +1,2 @@
 # coding-challenge-10
+This coding challenge has us create an index.html for the projects initial strcuture and to hold the javascript file. The we implement a javascript file that holds a csv file for purchase orders and create an element for each purchase order being name, order id, and purchase amount. We also included the d3.js feature we used last challnege. Lastly, we created a csv file to hold the data for the purchase orders and finalized it. 
